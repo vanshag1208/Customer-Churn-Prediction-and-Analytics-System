@@ -4,7 +4,7 @@ Customer Churn Analytics is an **end-to-end machine learning and business intell
 
 The project simulates a **real-world enterprise analytics pipeline** using Python, Azure SQL, and Power BI to convert raw customer data into predictive intelligence and business dashboards.
 
----
+
 
 ## 🧠 Project Overview
 
@@ -18,7 +18,7 @@ This project demonstrates how modern analytics teams handle customer churn probl
 
 The objective is to identify high-risk customers and enable data-driven retention strategies.
 
----
+
 
 ## 🎯 Objectives
 
@@ -28,7 +28,7 @@ The objective is to identify high-risk customers and enable data-driven retentio
 - Segment high-risk customers  
 - Build a scalable cloud-based analytics solution  
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -41,7 +41,7 @@ The objective is to identify high-risk customers and enable data-driven retentio
 - **DAX** – KPI & churn calculations  
 - **Git & GitHub** – Version control  
 
----
+
 
 ## 📊 Dataset Details
 
@@ -66,7 +66,7 @@ The objective is to identify high-risk customers and enable data-driven retentio
 7. Connect Azure SQL to **Power BI**  
 8. Create interactive dashboards using **DAX measures**
 
----
+
 
 ## 📊 Core Features
 
@@ -78,7 +78,7 @@ The objective is to identify high-risk customers and enable data-driven retentio
 - ✔️ High-risk customer identification  
 - ✔️ Cloud-based database integration  
 
----
+
 
 ## 📈 Insights & Results
 
@@ -88,7 +88,7 @@ The objective is to identify high-risk customers and enable data-driven retentio
 - ✔️ Simulated enterprise-level cloud analytics workflow  
 - ✔️ Enabled data-driven customer retention insights  
 
----
+
 
 ## 📷 Screenshots
 <img width="1600" height="921" alt="image" src="https://github.com/user-attachments/assets/ea1572c5-b5a7-4677-af5a-752753b24379" />
