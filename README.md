@@ -15,7 +15,6 @@ This project demonstrates how modern analytics teams handle customer churn probl
 - Churn probability prediction  
 - Cloud database integration  
 - Interactive dashboard development  
-- Business insight generation  
 
 The objective is to identify high-risk customers and enable data-driven retention strategies.
 
@@ -54,11 +53,7 @@ The objective is to identify high-risk customers and enable data-driven retentio
   - Tenure  
   - Additional Services  
 
-### Generated Output Columns:
-- `Churn_Predicted` (0/1)  
-- `Churn_Probability` (0–1 probability score)  
 
----
 
 ## 🔄 Data Pipeline Architecture
 
@@ -96,10 +91,15 @@ The objective is to identify high-risk customers and enable data-driven retentio
 ---
 
 ## 📷 Screenshots
+<img width="1600" height="921" alt="image" src="https://github.com/user-attachments/assets/ea1572c5-b5a7-4677-af5a-752753b24379" />
+<img width="1568" height="848" alt="image" src="https://github.com/user-attachments/assets/028e6aca-610d-4cf6-8aba-73f65c95ae94" />
+<img width="693" height="326" alt="image" src="https://github.com/user-attachments/assets/e3cd6567-75bc-46d8-9615-aa9833dc9241" />
+<img width="588" height="346" alt="image" src="https://github.com/user-attachments/assets/d3f4efd5-4c63-4f3a-9f92-f76b611ba115" />
 
-(Add your Power BI dashboard screenshots below)
 
-```md
-<img width="1350" height="755" alt="dashboard" src="your-image-link-here" />
-<img width="1350" height="755" alt="dashboard" src="your-image-link-here" />
-<img width="1350" height="755" alt="dashboard" src="your-image-link-here" />
+
+## 👨‍💻 About the Author
+
+**Vansh Agarwal**  
+Aspiring Data Analyst  
+B.Tech – Artificial Intelligence & Data Science  
